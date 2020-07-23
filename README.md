@@ -20,10 +20,10 @@ Grover is an interesting new language model by AllenNLP that has shown great abi
 One way to identify these machine generated text are to comapare them to another text generator like BERT and then check it is against our text. 
 Human generated text has some irregular words which have low probability according to the machine text generators. This is the basic idea behind Fake Image recognition.
 
-**Some Models capable of Detecting fake news are-
-1)	GPT-2 Detector Model**
-**2)	Grover (AllenNLP)
-3)	FEVER**
+**Some Models capable of Detecting fake news are-**
+**1)	GPT-2 Detector Model**
+**2)	Grover (AllenNLP)**
+**3)	FEVER**
 
 # Working of my model
 My model Implements a **TfidfVectorizer** . TF (Term Frequency): The number of times a word appears in a document is its Term Frequency. A higher value means a term appears more often than others, and so, the document is a good match when the term is part of the search terms.
