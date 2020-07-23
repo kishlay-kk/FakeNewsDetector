@@ -1,0 +1,4 @@
+To download the dataset click here https://drive.google.com/file/d/1p0lAVly-rmny--3Kb9000qZyLt8Px1HL/view?usp=sharing 
+The dataset I am using for this python projectcis news.csv. 
+This dataset has a shape of 7796×4. 
+The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE. 
